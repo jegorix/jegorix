@@ -1,4 +1,4 @@
-## Hi there 👋
+![Snake animation](https://github.com/jegorix/jegorix/blob/main/assets/snake.svg)
 
 <!--
 **jegorix/jegorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
