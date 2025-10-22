@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hey%20there%20👋%20I'm%20Нøвый&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
 ![Snake animation](https://github.com/jegorix/jegorix/blob/main/assets/snake.svg)
 
 <!--
