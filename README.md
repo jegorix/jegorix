@@ -31,6 +31,14 @@
 </p>
 
 
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jegorix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=28" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jegorix&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jegorix&theme=tokyonight&hide_border=true&background=1a001a" height="150"/>
+</p>
+
 
 ## 🐍 Languages
 
