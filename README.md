@@ -46,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,swift&theme=dark" alt="Languages: Python, C, C++, JavaScript, HTML, CSS, Swift" height="50"/>
 </p>
 
-These cover core programming and web languages I use daily, now including Swift for iOS/macOS development.
 
 ## ⚙️ Technologies
 
