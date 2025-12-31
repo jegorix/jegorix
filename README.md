@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=BB86FC&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+%7C+C+%7C+C%2B%2B;Building+financial+and+analytical+applications;Exploring+algorithms%2C+data+and+architecture;Passionate+about+automation+and+system+design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=BB86FC&center=true&vCenter=true&width=700&lines=Junior+Quantitative+Developer;Python+%7C+Django+%7C+C+%7C+C%2B%2B;Building+financial+and+analytical+applications;Exploring+algorithms%2C+data+and+architecture;Passionate+about+automation+and+system+design" />
 </p>
 
 
