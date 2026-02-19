@@ -33,26 +33,37 @@
 
 ### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jegorix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=28" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jegorix&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jegorix&theme=tokyonight&hide_border=true&background=1a001a" height="150"/>
-</p>
+<div align="center">
+    <img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api?username=jegorix&show_icons=true&theme=slateorange&bg_color=00000000&border_color=FFA500&text_color=808080" />
+    <img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api/top-langs?username=jegorix&layout=compact&theme=slateorange&bg_color=00000000&border_color=FFA500&text_color=808080&langs_count=8&card_width=320" />
+</div>
+
 
 
 ## 🐍 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,swift&theme=dark" alt="Languages: Python, C, C++, JavaScript, HTML, CSS, Swift" height="50"/>
-</p>
+<div align="left">
+    <img width=50 height=50 src="https://www.svgrepo.com/show/452091/python.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+</div>
 
 
 ## ⚙️ Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,mysql,postgres,docker,nginx&theme=dark" alt="Technologies: Django, MySQL, PostgreSQL, Docker, NGINX" height="50"/>
-  <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" height="50"/>
+
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" alt="REST API" height="50"/>
+  <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+  <img width=50 height=50 src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" /> 
+  <img width=50 height=50 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+  <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/e/ef/CMake_logo.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
 </p>
 
 - **Django & DRF**: For building robust APIs; DRF now uses the official PNG to ensure loading.
@@ -62,10 +73,17 @@
 
 ## 🛠️ Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=apple&theme=dark" alt="macOS" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode&theme=dark" alt="PyCharm, VS Code" height="50"/>
-</p>
+<div align="left">
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" />
+    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
+</div>
 
 
 ## Contact
